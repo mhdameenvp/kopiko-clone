@@ -1,0 +1,151 @@
+
+body{
+        
+    height: 100%;
+    width: 100%;
+    margin:0;
+    background-color: black;
+    
+}
+.first-page{
+    background-color: black;
+    border: 1px;
+    border-color: antiquewhite;
+    height: 230px;
+    
+}
+.kop-usa{
+ color: rgb(185,177,176);
+ 
+ font-size: 49px;
+ margin-left: 540px;
+ padding-top: 40px;
+
+ 
+}
+.para{
+    font-size: small;
+    width: 600px;
+}
+.home{
+    display: flex;
+    color:white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: size 100px;;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+.contact-us{
+    margin-left: 50px;
+    font-size: large;
+
+}
+.about-us{
+    margin-left: 50px;
+    font-size: large;
+
+}
+.update{
+    margin-left: 50px;
+    font-size: large;
+}
+.news{
+    margin-left: 50px;
+    font-size: large;
+}   
+.shop{
+    margin-left: 50px;
+    font-size: large;
+} 
+.collections{
+    margin-left: 50px;
+    font-size: large;
+}
+.hom{
+    margin-left: 50px;
+    font-size: large;
+}
+
+
+.cupp{
+    
+    
+    background-image: url(koporgi.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 1400px;
+    
+    
+    
+}
+.blackscreen{
+    width: 1400px;
+    height: 1450px;
+    background-color: black;
+}
+.text{
+    color:rgb(122,122,122);
+    margin-left: 140px;
+    text-align: center;
+    font-size: x-large;
+    padding: 100px;
+    padding-left: 9px;
+    
+    
+}
+.p2{
+    margin-top: 80px;
+    margin-right: 30px;
+}
+.last{
+    width: 300x;
+    
+
+    
+}
+.lst{
+    width: 800px;
+    height: 500px;
+    
+}
+.insta{
+    width: 30px;
+    height: 30px;
+}
+.fb{
+    width: 30px;
+    height: 30px;
+
+}
+.lnkd{
+    width: 30px;
+    height: 30px;
+   
+
+}
+.ut{
+    width: 30px;
+    height: 30px;
+}
+.logo{
+    margin-top: 200px;
+    display: flex;
+    margin-left: 350px;
+    gap: 90px;
+}
+.txt{
+    margin-top: 300px;
+    margin-right: 200px;
+    height: 1px
+    width: 600px;
+}
+.blackscreen2{
+    background-color: black;
+    width: auto;
+    height: auto;
+    margin-top: 450px;
+    padding-top: 100px;
+
+}
